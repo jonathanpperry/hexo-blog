@@ -18,6 +18,9 @@
     "hexo-server": "^0.3.3",
     "validator": ">=2.0.0"
   },
+  "scripts": {
+    "start": "node your-script.js"
+  },
   "keywords": [
     "example",
     "heroku"
