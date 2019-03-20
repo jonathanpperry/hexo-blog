@@ -19,7 +19,7 @@
     "validator": ">=2.0.0"
   },
   "scripts": {
-    "start": "node your-script.js"
+    "start": "node app.js"
   },
   "keywords": [
     "example",
