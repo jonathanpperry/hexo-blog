@@ -17,7 +17,7 @@
     "hexo-renderer-marked": "^0.3.2",
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.3.3",
-    "validator": ">=2.0.0"
+    "validator": ">=13.7.0"
   },
   "keywords": [
     "example",
